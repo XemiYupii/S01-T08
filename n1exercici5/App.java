@@ -1,4 +1,4 @@
-package exercici5;
+package n1exercici5;
 
 public class App  {
 

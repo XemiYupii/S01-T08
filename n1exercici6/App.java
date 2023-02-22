@@ -1,4 +1,4 @@
-package exercici6;
+package n1exercici6;
 
 import java.util.Arrays;
 import java.util.Collections;

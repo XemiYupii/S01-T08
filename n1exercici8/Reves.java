@@ -1,4 +1,4 @@
-package exercici8;
+package n1exercici8;
 
 @FunctionalInterface
 public interface Reves {
